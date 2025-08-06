@@ -1,4 +1,4 @@
-<img src="Post.png" width="400"/><br/>
+<img src="Post.png" width="1100"/><br/>
 
 # 🧋 BOBA – Bubble Tea App UI/UX Design
 
