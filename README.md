@@ -1,3 +1,5 @@
+<img src="Post.png" width="400"/><br/>
+
 # 🧋 BOBA – Bubble Tea App UI/UX Design
 
 **BOBA** is a stylish, cozy, and intuitive mobile UI/UX design project for a bubble tea ordering app, built using **Figma**. BOBA delivers a modern, warm experience for users who love customizing their bubble tea, browsing new flavors, and placing quick, effortless orders—all from their phones.
@@ -92,78 +94,90 @@ This project was built in **Figma**, an advanced design and prototyping platform
 
 Prototype - https://www.figma.com/proto/uaOLkzKbEWvrsJupkftp06/BOBA?page-id=0%3A1&node-id=343-48&p=f&viewport=212%2C548%2C0.1&t=eC8Z0Vl7CYwpCXZU-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=343%3A48
 
+
+Behance - https://www.behance.net/gallery/231929281/BOBA-Bubble-Tea-App
+
 ---
 
 
 <table>
   <tr>
     <td align="center">
-      <img src="Mockups/LogoScreen-1.png" width="400"/><br/>
+      <img src="Mockups/19.png" width="400"/><br/>
       <strong>Logo Screen</strong>
     </td>
     <td align="center">
-      <img src="Mockups/LogoScreen-2.png" width="400"/><br/>
-      <strong>Logo Screen 2</strong>
-    </td>
-    <td align="center">
-      <img src="Mockups/OnboardScreen-1.png" width="400"/><br/>
+      <img src="Mockups/20.png" width="400"/><br/>
       <strong>Onboard Screen 1</strong>
     </td>
-  </tr>
-  <tr>
-    </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-2.png" width="400"/><br/>
+      <img src="Mockups/21.png" width="400"/><br/>
       <strong>Onboard Screen 2</strong>
     </td>
+  </tr>
+  <tr>
+    </td>
     <td align="center">
-      <img src="Mockups/OnboardScreen-3.png" width="400"/><br/>
-      <strong>Onboard Screen 3</strong>
+      <img src="Mockups/22.png" width="400"/><br/>
+      <strong>Sign In</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/23.png" width="400"/><br/>
+      <strong>Sign Up</strong>
     </td>
       <td align="center">
-      <img src="Mockups/SignIn.png" width="400"/><br/>
-      <strong>Sign In</strong>
+      <img src="Mockups/24.png" width="400"/><br/>
+      <strong>Home</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Mockups/SignUp.png" width="400"/><br/>
-      <strong>Sign Up</strong>
+      <img src="Mockups/25.png" width="400"/><br/>
+      <strong>Menu</strong>
     </td>
     <td align="center">
-      <img src="Mockups/HomeScreen.png" width="400"/><br/>
-      <strong>Home Screen</strong>
+      <img src="Mockups/26.png" width="400"/><br/>
+      <strong>Item 01</strong>
     </td>
     <td align="center">
-      <img src="Mockups/Category.png" width="400"/><br/>
-      <strong>Category Screen</strong>
+      <img src="Mockups/27.png" width="400"/><br/>
+      <strong>Item 02</strong>
     </td>
   </tr>
  
   <tr>
     <td align="center">
-      <img src="Mockups/AddRecipe.png" width="400"/><br/>
-      <strong>Add Recipe</strong>
+      <img src="Mockups/28.png" width="400"/><br/>
+      <strong>Customize</strong>
     </td>
     <td align="center">
-      <img src="Mockups/ItemIngredients.png" width="400"/><br/>
-      <strong>Item Ingredients</strong>
+      <img src="Mockups/29.png" width="400"/><br/>
+      <strong>Wishlist</strong>
     </td>
     <td align="center">
-      <img src="Mockups/ItemSteps.png" width="400"/><br/>
-      <strong>Item Steps</strong>
+      <img src="Mockups/30.png" width="400"/><br/>
+      <strong>Cart</strong>
   </tr>
   <tr>
         </td>
     <td align="center">
-      <img src="Mockups/Favorites.png" width="400"/><br/>
-      <strong>Wishlist Screen</strong>
+      <img src="Mockups/31.png" width="400"/><br/>
+      <strong>Checkout</strong>
     </td>
     <td align="center">
-      <img src="Mockups/Profile.png" width="400"/><br/>
-      <strong>Profile Screen</strong>
+      <img src="Mockups/32.png" width="400"/><br/>
+      <strong>Profile</strong>
+    </td>
+    <td align="center">
+      <img src="Mockups/33.png" width="400"/><br/>
+      <strong>Edit Profile</strong>
     </td>
   </tr>
 </table>
+
+
+## 🎥 Screen Record
+
+[Click here to watch the Record](Recording/Recording.mp4)
 
 
